@@ -1,0 +1,1 @@
+// Socket client communication logic.

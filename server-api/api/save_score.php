@@ -1,0 +1,2 @@
+<?php
+// Save score endpoint.
